@@ -1,0 +1,6 @@
+D:\Programming, modeling\+C_Sharp\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
+D:\Programming, modeling\+C_Sharp\Spiral\Spiral\bin\Debug\Spiral.exe.config
+D:\Programming, modeling\+C_Sharp\Spiral\Spiral\bin\Debug\Spiral.exe
+D:\Programming, modeling\+C_Sharp\Spiral\Spiral\bin\Debug\Spiral.pdb
+D:\Programming, modeling\+C_Sharp\Spiral\Spiral\obj\Debug\Spiral.exe
+D:\Programming, modeling\+C_Sharp\Spiral\Spiral\obj\Debug\Spiral.pdb
