@@ -15,6 +15,7 @@ namespace Spiral
             int[,] mas = new int[n/2, n/2];
             for (int i = 0; i < n; i++) ;
 	    Console.ReadKey();
+//12
         }
         public static void Spiral2(int[,] n)
         {
